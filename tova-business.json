@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:01:46.318Z",
+  "slug": "sushi",
+  "name": "Sushi Express",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Restaurants",
+    "niche": "restaurants",
+    "group": "Food & hospitality"
+  },
+  "contact": {
+    "phone": "+6433432488",
+    "email": "hello@sushi.co.nz",
+    "address": "129 Riccarton Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/127500943985918"
+  },
+  "about": {
+    "overview": "Mobile sushi lunches",
+    "tagline": "Home | Sushi Express",
+    "services": [
+      "Time for Sushi"
+    ]
+  },
+  "before": {
+    "url": "https://www.sushi.co.nz",
+    "domain": "sushi.co.nz",
+    "finalUrl": "https://www.sushi.co.nz/",
+    "title": "Home | Sushi Express",
+    "pages": 6,
+    "score": 57,
+    "assessedAt": "2026-11-12T09:57:54.462Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "4 of 5 images have no alt text (accessibility and SEO)."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/sushi-express/",
+    "repoUrl": "https://github.com/tova-studio/sushi-express",
+    "generator": "claude",
+    "accent": "#f78da7",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:01:46.318Z"
+  }
+}
